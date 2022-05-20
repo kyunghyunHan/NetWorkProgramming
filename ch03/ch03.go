@@ -1,4 +1,4 @@
-pakage ch03
+package ch03
 
 
 import (
